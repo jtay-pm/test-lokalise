@@ -1,0 +1,38 @@
+{
+  "2KyvW0": {
+    "notes": "How coverage works joint",
+    "translation": "La police du partenaire non concerné reste active."
+  },
+  "6+zTcI": {
+    "notes": "How coverage works joint",
+    "translation": "Si vous obtenez un paiement partiel, votre police restera active."
+  },
+  "7dTPue": {
+    "notes": "How coverage works joint",
+    "translation": "Vous commencerez chacun avec votre propre police d'assurance"
+  },
+  "B+/blC": {
+    "notes": "How coverage works joint",
+    "translation": "Votre couverture totale <strong>ne diminuera pas</strong> du montant déjà versé."
+  },
+  "I5s2uf": {
+    "notes": "How coverage works joint",
+    "translation": "Si l'un de vous ou les deux reçoivent un diagnostic de maladie grave, le ou les partenaires concernés soumettront une demande de règlement."
+  },
+  "WMvSoH": {
+    "notes": "Most people buy",
+    "translation": "La plupart des clients comme vous demandent une couverture de <b>{cov, number, ::group-min-2 currency/CAD unit-width-narrow precision-integer}</b> sur une durée de <b>{term, number} ans</b>"
+  },
+  "af3SO9": {
+    "notes": "How coverage works joint",
+    "translation": "Une fois votre demande examinée et approuvée, vous recevrez un paiement complet ou partiel en fonction de l'état."
+  },
+  "dwFtmJ": {
+    "notes": "Quote heading",
+    "translation": "Personnalisons votre {isCI, select, true{police d'assurance maladies graves} other{police d'assurance vie}}"
+  },
+  "mb1Raz": {
+    "notes": "How the coverage works header",
+    "translation": "Comment fonctionne la couverture"
+  }
+}

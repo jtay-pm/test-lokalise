@@ -1,0 +1,11 @@
+{
+    "2KyvW0": "The unaffected partner’s policy will remain active.",
+    "6+zTcI": "If you get a partial payout, your policy will remain active.",
+    "7dTPue": "You’ll each start out with your own policy",
+    "B+\/blC": "Your total coverage <strong>will not decrease<\/strong> by the amount that’s already been paid out.",
+    "I5s2uf": "If either or both of you are diagnosed with a critical illness, the affected partner(s) will submit a claim.",
+    "WMvSoH": "Most customers like you apply for <b>{cov, number, ::group-min-2 currency\/CAD unit-width-narrow precision-integer}<\/b> in coverage over a <b>{term, number}-year<\/b> policy term",
+    "af3SO9": "Once your claim is reviewed and approved, you’ll either get a full or partial payout depending on the condition.",
+    "dwFtmJ": "Let’s personalize your {isCI, select, true{critical illness insurance policy} other{life insurance}}",
+    "mb1Raz": "How the coverage works"
+}

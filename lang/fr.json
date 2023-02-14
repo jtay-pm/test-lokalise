@@ -1,0 +1,42 @@
+{
+  "2KyvW0": {
+    "defaultMessage": "La police du partenaire non concerné reste active.",
+    "description": "How coverage works joint"
+  },
+  "6+zTcI": {
+    "defaultMessage": "Si vous obtenez un paiement partiel, votre police restera active.",
+    "description": "How coverage works joint"
+  },
+  "7dTPue": {
+    "defaultMessage": "Vous commencerez chacun avec votre propre police d'assurance",
+    "description": "How coverage works joint"
+  },
+  "B+/blC": {
+    "defaultMessage": "Votre couverture totale <strong>ne diminuera pas</strong> du montant déjà versé.",
+    "description": "How coverage works joint"
+  },
+  "mb1Raz": {
+    "defaultMessage": "Comment fonctionne la couverture",
+    "description": "How the coverage works header"
+  },
+  "GY2nQS": {
+    "defaultMessage": "Bonjour le monde",
+    "description": "hello world message"
+  },
+  "I5s2uf": {
+    "defaultMessage": "Si l'un de vous ou les deux reçoivent un diagnostic de maladie grave, le ou les partenaires concernés soumettront une demande de règlement.",
+    "description": "How coverage works joint"
+  },
+  "af3SO9": {
+    "defaultMessage": "Une fois votre demande examinée et approuvée, vous recevrez un paiement complet ou partiel en fonction de l'état.",
+    "description": "How coverage works joint"
+  },
+  "WMvSoH": {
+    "defaultMessage": "La plupart des clients comme vous demandent une couverture de <b>{cov, number, ::group-min-2 currency/CAD unit-width-narrow precision-integer}</b> sur une durée de <b>{term, number} ans</b>",
+    "description": "Most people buy"
+  },
+  "dwFtmJ": {
+    "defaultMessage": "Personnalisons votre {isCI, select, true{police d'assurance maladies graves} other{police d'assurance vie}}",
+    "description": "Quote heading"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "2KyvW0": [
+    {
+      "type": 0,
+      "value": "The unaffected partner’s policy will remain active."
+    }
+  ],
+  "6+zTcI": [
+    {
+      "type": 0,
+      "value": "If you get a partial payout, your policy will remain active."
+    }
+  ],
+  "7dTPue": [
+    {
+      "type": 0,
+      "value": "You’ll each start out with your own policy"
+    }
+  ],
+  "B+/blC": [
+    {
+      "type": 0,
+      "value": "Your total coverage "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "will not decrease"
+        }
+      ],
+      "type": 8,
+      "value": "strong"
+    },
+    {
+      "type": 0,
+      "value": " by the amount that’s already been paid out."
+    }
+  ],
+  "I5s2uf": [
+    {
+      "type": 0,
+      "value": "If either or both of you are diagnosed with a critical illness, the affected partner(s) will submit a claim."
+    }
+  ],
+  "WMvSoH": [
+    {
+      "type": 0,
+      "value": "Most customers like you apply for "
+    },
+    {
+      "children": [
+        {
+          "style": {
+            "parsedOptions": {
+              "currency": "CAD",
+              "currencyDisplay": "narrowSymbol",
+              "maximumFractionDigits": 0,
+              "style": "currency",
+              "unitDisplay": "narrow"
+            },
+            "tokens": [
+              {
+                "options": [
+                ],
+                "stem": "group-min-2"
+              },
+              {
+                "options": [
+                  "CAD"
+                ],
+                "stem": "currency"
+              },
+              {
+                "options": [
+                ],
+                "stem": "unit-width-narrow"
+              },
+              {
+                "options": [
+                ],
+                "stem": "precision-integer"
+              }
+            ],
+            "type": 0
+          },
+          "type": 2,
+          "value": "cov"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " in coverage over a "
+    },
+    {
+      "children": [
+        {
+          "style": null,
+          "type": 2,
+          "value": "term"
+        },
+        {
+          "type": 0,
+          "value": "-year"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " policy term"
+    }
+  ],
+  "af3SO9": [
+    {
+      "type": 0,
+      "value": "Once your claim is reviewed and approved, you’ll either get a full or partial payout depending on the condition."
+    }
+  ],
+  "dwFtmJ": [
+    {
+      "type": 0,
+      "value": "Let’s personalize your "
+    },
+    {
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "life insurance"
+            }
+          ]
+        },
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "critical illness insurance policy"
+            }
+          ]
+        }
+      },
+      "type": 5,
+      "value": "isCI"
+    }
+  ],
+  "mb1Raz": [
+    {
+      "type": 0,
+      "value": "How the coverage works"
+    }
+  ]
+}

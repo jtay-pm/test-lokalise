@@ -29,7 +29,7 @@
   },
   "dwFtmJ": {
     "notes": "Quote heading",
-    "translation": "Let’s personalize your {isCI, select, true{critical illness insurance policy} other{life insurance}}"
+    "translation": "{isCI,select,true{Let’s personalize your critical illness insurance policy} other{Let’s personalize your life insurance}}"
   },
   "mb1Raz": {
     "notes": "How the coverage works header",

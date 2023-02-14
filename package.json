@@ -1,0 +1,46 @@
+{
+  "name": "test-lokalise",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "babel-plugin-formatjs": "10.2.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intl": "^6.2.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@formatjs/cli": "^5.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "extract": "formatjs extract --ignore='**/*.d.js' --out-file lang/en-CA.json --id-interpolation-pattern '[sha512:contenthash:base64:6]' \"src/components/**\" \"src/pages/**\" --format lokalise",
+    "compile-en": "formatjs compile \"src/lokalise-lang/en_CA.json\" \"node_modules/**/lang/en.json\" --ast --out-file src/compiled-lang/en.json --format src/formatter.js",
+    "compile-fr": "formatjs compile \"lang/fr.json\" \"node_modules/**/lang/fr.json\" --ast --out-file compiled-lang/fr.json --format src/formatter.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

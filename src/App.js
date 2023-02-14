@@ -25,28 +25,28 @@ function App() {
           </p>
           <p>
             <FormattedMessage
-              id="2KyvW0"
+              // id="2KyvW0"
               description="How coverage works joint"
               defaultMessage="The unaffected partner’s policy will remain active."
             />
           </p>
           <p>
             <FormattedMessage
-              id="6+zTcI"
+              // id="6+zTcI"
               description="How coverage works joint"
               defaultMessage="If you get a partial payout, your policy will remain active."
             />
           </p>
           <p>
             <FormattedMessage
-              id="7dTPue"
+              // id="7dTPue"
               description="How coverage works joint"
               defaultMessage="You’ll each start out with your own policy"
             />
           </p>
           <p>
             <FormattedMessage
-              id="B+/blC"
+              // id="B+/blC"
               description="How coverage works joint"
               defaultMessage="Your total coverage <strong>will not decrease</strong> by the amount that’s already been paid out."
               values={{
@@ -56,14 +56,14 @@ function App() {
           </p>
           <p>
             <FormattedMessage
-              id="I5s2uf"
+              // id="I5s2uf"
               description="How coverage works joint"
               defaultMessage="If either or both of you are diagnosed with a critical illness, the affected partner(s) will submit a claim."
             />
           </p>
           <p>
             <FormattedMessage
-              id="WMvSoH"
+              // id="WMvSoH"
               description="Most people buy"
               defaultMessage="Most customers like you apply for <b>{cov, number, ::group-min-2 currency/CAD unit-width-narrow precision-integer}</b> in coverage over a <b>{term, number}-year</b> policy term"
               values={{
@@ -75,14 +75,14 @@ function App() {
           </p>
           <p>
             <FormattedMessage
-              id="af3SO9"
+              // id="af3SO9"
               description="How coverage works joint"
               defaultMessage="Once your claim is reviewed and approved, you’ll either get a full or partial payout depending on the condition."
             />
           </p>
           <p>
             <FormattedMessage
-              id="dwFtmJ"
+              // id="dwFtmJ"
               description="Quote heading"
               defaultMessage="Let’s personalize your {isCI, select, true{critical illness insurance policy} other{life insurance}}"
               values={{
@@ -92,9 +92,16 @@ function App() {
           </p>
           <p>
             <FormattedMessage
-              id="mb1Raz"
+              // id="mb1Raz"
               description="How the coverage works header"
               defaultMessage="How the coverage works"
+            />
+          </p>
+          <p>
+            <FormattedMessage
+              // id="mb1Raz"
+              description="Couples Discount Modal"
+              defaultMessage="If you apply with your partner, your final rate will include the 10% Couples Discount for the first year once your application is approved."
             />
           </p>
         </header>

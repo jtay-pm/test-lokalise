@@ -7,5 +7,5 @@
   "WMvSoH": "Most customers like you apply for <b>{cov, number, ::group-min-2 currency/CAD unit-width-narrow precision-integer}</b> in coverage over a <b>{term, number}-year</b> policy term",
   "af3SO9": "Once your claim is reviewed and approved, you’ll either get a full or partial payout depending on the condition.",
   "dwFtmJ": "{isCI,select,true{Let’s personalize your critical illness insurance policy} other{Let’s personalize your life insurance}}",
-  "mb1Raz": "How the coverage works"
+  "mb1Raz": "How the coverage works!"
 }

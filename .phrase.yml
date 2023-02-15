@@ -1,0 +1,13 @@
+phrase:
+  access_token: 0309fd94648210c09d8b1be26611533e9107b300160db5dac02fd3e66479f883
+  project_id: 2955a7c8d2cc18253a9cfec977c5781e
+  push:
+    sources:
+    - file: ./lang/en-CA-phrase.json
+      params:
+        file_format: simple_json
+  pull:
+    targets:
+    - file: ./src/phrase/<locale_name>.json
+      params:
+        file_format: simple_json

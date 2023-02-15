@@ -3,7 +3,7 @@ phrase:
   project_id: 2955a7c8d2cc18253a9cfec977c5781e
   push:
     sources:
-    - file: ./lang/en-CA-phrase.json
+    - file: ./lang/<locale_name>-phrase.json
       params:
         file_format: simple_json
   pull:

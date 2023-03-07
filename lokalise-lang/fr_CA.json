@@ -1,0 +1,12 @@
+{
+    "2KyvW0": "La police du partenaire non affecté restera active.",
+    "6+zTcI": "Si vous obtenez un paiement partiel, votre police restera active",
+    "7dTPue": "Vous commencerez par votre propre police d'assurance",
+    "B+\/blC": "Votre couverture totale <strong>ne diminuera pas<\/strong> du montant déjà versé.",
+    "I5s2uf": "Si l'un de vous ou les deux reçoivent un diagnostic de maladie grave, le ou les partenaires concernés soumettront une demande de règlement.",
+    "WMvSoH": "La plupart des clients comme vous demandent une couverture de <b>{cov, number, ::group-min-2 currency\/CAD unit-width-narrow precision-integer}<\/b> sur une durée de <b>{term, number} ans<\/b>",
+    "af3SO9": "Une fois votre demande examinée et approuvée, vous recevrez un paiement complet ou partiel en fonction de l'état",
+    "dwFtmJ": "Personnalisons votre {isCI, select, true{police d'assurance maladies graves} other{police d'assurance vie}}",
+    "mb1Raz": "Comment fonctionne la couverture",
+    "xyPXg8": "Si vous vous inscrivez avec votre partenaire, votre tarif final comprendra la réduction pour couples de 10 % pour la première année, une fois votre demande approuvée."
+}
